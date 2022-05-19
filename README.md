@@ -25,6 +25,8 @@ if __name__ == '__main__':
     me = PakoMtz()
 ```
 
+
+<!--
 <img src="https://pa1.narvii.com/6667/d7e8e4270e2311c9da2d2655e1c246ed878593fa_hq.gif" width="35%" align="right"/>
 
 - 🔭 I’m currently working on ...
@@ -37,7 +39,7 @@ if __name__ == '__main__':
 - ⚡ Fun fact: ...
 
 
-<!--
+
 self.location = "Pachuca, Hgo"
 ![Alt Text](https://pa1.narvii.com/6667/d7e8e4270e2311c9da2d2655e1c246ed878593fa_hq.gif)
 ![Alt Text](https://i.pinimg.com/originals/29/6e/74/296e745761ba9f4d9f251e71442ee972.gif)
