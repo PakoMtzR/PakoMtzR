@@ -2,6 +2,7 @@
 <h1 align="center">:computer: Hola Chismos@ :raised_hand::flushed: </h1>
 <p align="center" ><img src="https://c.tenor.com/8ZpbRdXPnd4AAAAC/programming-crazy.gif" width="55%"/></p>
 
+<!--
 ```python
 class PakoMtz():
     
@@ -26,7 +27,7 @@ if __name__ == '__main__':
 ```
 
 
-<!--
+
 <img src="https://pa1.narvii.com/6667/d7e8e4270e2311c9da2d2655e1c246ed878593fa_hq.gif" width="35%" align="right"/>
 
 - 🔭 I’m currently working on ...
